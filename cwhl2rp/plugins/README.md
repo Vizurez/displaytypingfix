@@ -1,7 +1,7 @@
 ## Display Typing - **HL2RP Fix**
 
 This plugin overrides some base Schema functions due to them currently breaking the functionality 
-of Metropolice Force beeping sounds in HL2RP beta version **[1.08]** (6/7/2017)
+of Combine beeping sounds in the HL2RP Schema. **Only use this if you are running the HL2RP schema with the Clockwork 0.96.3 BETA and want to fix Combine beeping sounds.** (6/7/2017)
 
 This requires the Clockwork version which can be found here:
 https://github.com/Vizurez/displaytypingfix/tree/master/clockwork/plugins
