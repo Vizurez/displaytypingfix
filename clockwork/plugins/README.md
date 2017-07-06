@@ -8,6 +8,6 @@ To install, put this into your 'clockwork/plugins/' directory and **remove the o
 with the name 'displaytyping'.**
 
 If using with the HL2RP Schema, you will also want to download and install the Schema version
-of this plugin here: 
+of this plugin here: https://github.com/Vizurez/displaytypingfix/tree/master/cwhl2rp/plugins
 
 You may want to remove this plugin in the future when an official fix is applied to the Framework. - Viz
