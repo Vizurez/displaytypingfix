@@ -1,6 +1,6 @@
 ## Display Typing - **HL2RP Fix**
 
-This plugin overrides base Schema functions due to them currently breaking the functionality 
+This plugin overrides some base Schema functions due to them currently breaking the functionality 
 of Metropolice Force beeping sounds in HL2RP version **[1.08]** (6/7/2017)
 
 This requires the Clockwork version which can be found here:
